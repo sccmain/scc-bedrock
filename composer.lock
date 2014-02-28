@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "b1ac8695e5f020b96b865f9d4233fec2",
+    "hash": "67bc1548c875316bc5562594d1323896",
     "packages": [
         {
             "name": "composer/installers",
@@ -458,16 +458,16 @@
             "time": "2013-11-30 13:14:44"
         },
         {
-            "name": "wpackagist-plugin/akismet",
-            "version": "dev-trunk",
+            "name": "wpackagist-plugin/contact-form-7",
+            "version": "3.7.2",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/akismet/",
-                "reference": "trunk"
+                "url": "http://plugins.svn.wordpress.org/contact-form-7/",
+                "reference": "tags/3.7.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/akismet.zip",
+                "url": "http://downloads.wordpress.org/plugin/contact-form-7.3.7.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -475,54 +475,10 @@
                 "composer/installers": "~1.0"
             },
             "replace": {
-                "wpackagist/akismet": "self.version"
+                "wpackagist/contact-form-7": "self.version"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/akismet/",
-            "time": "2014-02-14 21:17:09"
-        },
-        {
-            "name": "wpackagist-plugin/captcha",
-            "version": "3.9.6",
-            "source": {
-                "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/captcha/",
-                "reference": "tags/3.9.6"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/captcha.3.9.6.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "replace": {
-                "wpackagist/captcha": "self.version"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/captcha/"
-        },
-        {
-            "name": "wpackagist-theme/hueman",
-            "version": "1.3.7",
-            "source": {
-                "type": "svn",
-                "url": "http://themes.svn.wordpress.org/hueman/",
-                "reference": "1.3.7"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "http://wordpress.org/themes/download/hueman.1.3.7.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-theme",
-            "homepage": "http://wordpress.org/themes/hueman/"
+            "homepage": "http://wordpress.org/plugins/contact-form-7/"
         }
     ],
     "packages-dev": [
@@ -532,9 +488,9 @@
 
     ],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "wpackagist-plugin/akismet": 20
-    },
+    "stability-flags": [
+
+    ],
     "platform": {
         "php": ">=5.3.2"
     },
