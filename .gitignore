@@ -18,6 +18,8 @@ app/plugins/*
 !app/plugins/.gitkeep
 app/mu-plugins/*
 !app/mu-plugins/register-theme-directory.php
+app/themes/*
+!app/themes/.gitkeep
 
 # Vendor (e.g. Composer)
 vendor/*
