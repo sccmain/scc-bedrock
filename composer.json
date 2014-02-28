@@ -61,7 +61,7 @@
     "composer/installers": "v1.0.6",
     "wp-cli/wp-cli": "v0.13.0",
     "vlucas/phpdotenv": "~1.0.5",
-    "wpackagist/contact-form-7": "3.7.x"
+    "wpackagist-plugin/contact-form-7": "3.7.x"
   },
   "extra": {
     "installer-paths": {
