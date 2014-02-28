@@ -61,7 +61,9 @@
     "composer/installers": "v1.0.6",
     "wp-cli/wp-cli": "v0.13.0",
     "vlucas/phpdotenv": "~1.0.5",
-    "wpackagist-plugin/contact-form-7":"3.7.2"
+    "wpackagist-plugin/contact-form-7":"3.7.2",
+    "wpackagist-plugin/share-this":"7.0.9",
+    "wpackagist-plugin/wp-video-lightbox":"1.6.5"
   },
   "extra": {
     "installer-paths": {

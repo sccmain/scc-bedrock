@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "67bc1548c875316bc5562594d1323896",
+    "hash": "70a637afeea0df5fcdfadeac8a9293b5",
     "packages": [
         {
             "name": "composer/installers",
@@ -479,6 +479,52 @@
             },
             "type": "wordpress-plugin",
             "homepage": "http://wordpress.org/plugins/contact-form-7/"
+        },
+        {
+            "name": "wpackagist-plugin/share-this",
+            "version": "7.0.9",
+            "source": {
+                "type": "svn",
+                "url": "http://plugins.svn.wordpress.org/share-this/",
+                "reference": "tags/7.0.9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "http://downloads.wordpress.org/plugin/share-this.7.0.9.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "replace": {
+                "wpackagist/share-this": "self.version"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "http://wordpress.org/plugins/share-this/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-video-lightbox",
+            "version": "1.6.5",
+            "source": {
+                "type": "svn",
+                "url": "http://plugins.svn.wordpress.org/wp-video-lightbox/",
+                "reference": "tags/1.6.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "http://downloads.wordpress.org/plugin/wp-video-lightbox.1.6.5.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "replace": {
+                "wpackagist/wp-video-lightbox": "self.version"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "http://wordpress.org/plugins/wp-video-lightbox/"
         }
     ],
     "packages-dev": [
