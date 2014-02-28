@@ -12,7 +12,7 @@ set :repo_url, 'git@github.com:thuijssoon/c3.git'
 # This could be overridden in a stage config file
 set :branch, :master
 
-set :deploy_to, "/srv/www/#{fetch(:application)}"
+set :deploy_to, "/srv/www/#{fetch(:application)}/htdocs"
 
 set :log_level, :debug
 
