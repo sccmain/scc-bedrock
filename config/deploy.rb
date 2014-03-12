@@ -19,6 +19,12 @@ set :log_level, :debug
 set :linked_files, %w{.env}
 set :linked_dirs, %w{app/uploads}
 
+SSHKit.config.command_map[:composer] = "#{shared_path.join("composer.phar")}"
+
+namespace :deploy do
+  before :starting, 'composer:install_executable'
+end
+
 namespace :deploy do
 
   desc 'Restart application'
