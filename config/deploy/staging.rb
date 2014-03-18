@@ -1,6 +1,6 @@
 set :stage, :staging
 
-set :deploy_to, "/var/www/vhosts/z2wp-sg7m.accessdomain.com/staging.connectchristiancounseling.com"
+set :deploy_to, "/var/www/vhosts/z2wp-sg7m.accessdomain.com/staging.christiansextreatment.com"
 set :tmp_dir, "/tmp2"
 
 # Simple Role Syntax
