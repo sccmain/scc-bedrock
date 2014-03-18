@@ -21,7 +21,7 @@ set :linked_dirs, %w{app/uploads}
 
 # SSHKit.config.command_map[:composer] = "#{shared_path.join("composer.phar")}"
 
-SSHKit.config.command_map[:composer] = "~/composer"
+SSHKit.config.command_map[:composer] = "~/composer.phar"
 
 # namespace :deploy do
 #   before :starting, 'composer:install_executable'
