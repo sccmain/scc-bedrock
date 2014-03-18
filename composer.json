@@ -52,11 +52,33 @@
           "fancyguy/webroot-installer": "1.1.0"
         }
       }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "th-framewrok",
+        "version": "0.1",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/thuijssoon/th-framework/archive/master.zip"
+        }
+      }
+    },
+    {
+      "name": "sccmain/th-scc-utility",
+      "type" : "git",
+      "url"  : "git@github.com:sccmain/th-scc-utility.git",
+      "require" : {
+        "th-framewrok": "0.1"
+      }
     }
   ],
   "require": {
     "php": ">=5.3.2",
     "wordpress": "3.8.1",
+    "th-framewrok": "0.1",
+    "sccmain/th-scc-utility": "0.1",
     "fancyguy/webroot-installer": "1.1.0",
     "composer/installers": "v1.0.6",
     "wp-cli/wp-cli": "v0.13.0",
