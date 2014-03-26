@@ -22,7 +22,10 @@ set :deploy_to, "/srv/www/#{fetch(:application)}/htdocs"
 #    auth_methods: %w(password)
 #  }
 
-set :ssh_options, {keys: ['~/.vagrant.d/insecure_private_key']}
+set :ssh_options, {
+	keys: ['~/.vagrant.d/insecure_private_key'],
+	forward_agent: true
+}
 
 fetch(:default_env).merge!(wp_env: :development)
 
