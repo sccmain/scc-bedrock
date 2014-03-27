@@ -11,3 +11,6 @@ define('WP_SITEURL', getenv('WP_SITEURL'));
 define('SAVEQUERIES', true);
 define('WP_DEBUG', true);
 define('SCRIPT_DEBUG', true);
+
+/* Multisite */
+define( 'WP_ALLOW_MULTISITE', true );
