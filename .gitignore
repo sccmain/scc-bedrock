@@ -1,6 +1,6 @@
 # WordPress
 wp
-.htaccess
+!.htaccess
 
 # WP-CLI
 db-sync
