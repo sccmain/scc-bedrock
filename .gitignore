@@ -16,6 +16,7 @@ app/uploads
 app/upgrade
 app/plugins/*
 !app/plugins/.gitkeep
+!app/plugins/taxonomy-metadata/
 app/mu-plugins/*
 !app/mu-plugins/register-theme-directory.php
 app/themes/*
