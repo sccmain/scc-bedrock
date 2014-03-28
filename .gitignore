@@ -21,6 +21,7 @@ app/mu-plugins/*
 !app/mu-plugins/register-theme-directory.php
 app/themes/*
 !app/themes/.gitkeep
+!app/themes/greenearth/
 
 # Vendor (e.g. Composer)
 vendor/*

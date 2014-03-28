@@ -1,0 +1,2135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Green Earth v1.02\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-07-17 23:22:47+0000\n"
+"Last-Translator: nao <nao.null@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:12
+#@ gdl_front_end
+msgid "Sorry"
+msgstr ""
+
+#: 404.php:13
+#@ gdl_front_end
+msgid "The page you are finding seem doesn't exist."
+msgstr ""
+
+#: comments.php:13
+#@ gdl_front_end
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:13
+#@ gdl_front_end
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:13
+#: include/plugin/blog-item.php:198
+#: include/plugin/blog-item.php:247
+#: single-portfolio.php:160
+#: single.php:54
+#@ gdl_front_end
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:35
+#@ gdl_front_end
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:43
+#: include/plugin/custom-widget/contact-widget.php:140
+#: include/plugin/page-item.php:571
+#@ gdl_front_end
+msgid "Name"
+msgstr ""
+
+#: comments.php:49
+#: include/plugin/custom-widget/contact-widget.php:141
+#: include/plugin/page-item.php:573
+#@ gdl_front_end
+msgid "Email"
+msgstr ""
+
+#: comments.php:55
+#@ gdl_front_end
+msgid "Website"
+msgstr ""
+
+#: header.php:209
+#@ gdl_front_end
+msgid "Category"
+msgstr ""
+
+#: header.php:212
+#@ gdl_front_end
+msgid "Tag"
+msgstr ""
+
+#: header.php:215
+#@ gdl_front_end
+msgid "Day"
+msgstr ""
+
+#: header.php:218
+#@ gdl_front_end
+msgid "Month"
+msgstr ""
+
+#: header.php:221
+#@ gdl_front_end
+msgid "Year"
+msgstr ""
+
+#: header.php:224
+#: search.php:63
+#@ gdl_front_end
+msgid "Search"
+msgstr ""
+
+#: include/gallery-option.php:19
+#@ gdl_back_office
+msgctxt "Gallery General Name"
+msgid "Gallery"
+msgstr ""
+
+#: include/gallery-option.php:20
+#@ gdl_back_office
+msgctxt "Gallery Singular Name"
+msgid "Gallery Item"
+msgstr ""
+
+#: include/gallery-option.php:21
+#@ gdl_back_office
+msgctxt "Add New Gallery Name"
+msgid "Add New"
+msgstr ""
+
+#: include/gallery-option.php:22
+#@ gdl_back_office
+msgid "Add New Gallery"
+msgstr ""
+
+#: include/gallery-option.php:23
+#@ gdl_back_office
+msgid "Edit Gallery"
+msgstr ""
+
+#: include/gallery-option.php:24
+#@ gdl_back_office
+msgid "New Gallery"
+msgstr ""
+
+#: include/gallery-option.php:26
+#@ gdl_back_office
+msgid "Search Gallery"
+msgstr ""
+
+#: include/gallery-option.php:27
+#: include/portfolio-option.php:28
+#: include/price-table-option.php:27
+#: include/testimonial-option.php:27
+#@ gdl_back_office
+msgid "Nothing found"
+msgstr ""
+
+#: include/gallery-option.php:28
+#: include/portfolio-option.php:29
+#: include/price-table-option.php:28
+#: include/testimonial-option.php:28
+#@ gdl_back_office
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: include/gallery-option.php:54
+#: include/page-option.php:717
+#: include/portfolio-option.php:216
+#: include/portfolio-option.php:269
+#: include/post-option.php:104
+#: include/post-option.php:157
+#@ gdl_back_office
+msgid "SELECT IMAGES"
+msgstr ""
+
+#: include/gallery-option.php:68
+#@ gdl_back_office
+msgid "Gallery Option"
+msgstr ""
+
+#: include/gallery-option.php:207
+#: include/gallery-option.php:250
+#: include/meta-template.php:393
+#: include/meta-template.php:444
+#@ gdl_back_office
+msgid "LINK TYPE"
+msgstr ""
+
+#: include/gallery-option.php:216
+#: include/gallery-option.php:260
+#: include/meta-template.php:403
+#: include/meta-template.php:455
+#@ gdl_back_office
+msgid "URL PATH"
+msgstr ""
+
+#: include/goodlayers-option.php:18
+#@ gdl_back_office
+msgid "General"
+msgstr "เจเนรอล"
+
+#: include/goodlayers-option.php:19
+#@ gdl_back_office
+msgid "Page Style"
+msgstr ""
+
+#: include/goodlayers-option.php:20
+#@ gdl_back_office
+msgid "Sidebar"
+msgstr ""
+
+#: include/goodlayers-option.php:21
+#@ gdl_back_office
+msgid "Footer Style"
+msgstr ""
+
+#: include/goodlayers-option.php:22
+#@ gdl_back_office
+msgid "Google Analytics"
+msgstr ""
+
+#: include/goodlayers-option.php:23
+#@ gdl_back_office
+msgid "Favicon"
+msgstr ""
+
+#: include/goodlayers-option.php:25
+#@ gdl_back_office
+msgid "Font Style"
+msgstr ""
+
+#: include/goodlayers-option.php:26
+#@ gdl_back_office
+msgid "Font Size"
+msgstr ""
+
+#: include/goodlayers-option.php:27
+#@ gdl_back_office
+msgid "Font Family"
+msgstr ""
+
+#: include/goodlayers-option.php:28
+#@ gdl_back_office
+msgid "Upload Font"
+msgstr ""
+
+#: include/goodlayers-option.php:30
+#@ gdl_back_office
+msgid "Overall Elements"
+msgstr ""
+
+#: include/goodlayers-option.php:31
+#@ gdl_back_office
+msgid "Header Area"
+msgstr ""
+
+#: include/goodlayers-option.php:32
+#@ gdl_back_office
+msgid "Logo / Navigation"
+msgstr ""
+
+#: include/goodlayers-option.php:33
+#@ gdl_back_office
+msgid "Social Network"
+msgstr ""
+
+#: include/goodlayers-option.php:34
+#@ gdl_back_office
+msgid "Social Shares"
+msgstr ""
+
+#: include/goodlayers-option.php:35
+#@ gdl_back_office
+msgid "Copyright Area"
+msgstr ""
+
+#: include/goodlayers-option.php:38
+#@ gdl_back_office
+msgid "Elements Color"
+msgstr ""
+
+#: include/goodlayers-option.php:39
+#@ gdl_back_office
+msgid "Navigation / Header"
+msgstr ""
+
+#: include/goodlayers-option.php:40
+#@ gdl_back_office
+msgid "Body"
+msgstr ""
+
+#: include/goodlayers-option.php:41
+#@ gdl_back_office
+msgid "Footer"
+msgstr ""
+
+#: include/goodlayers-option.php:42
+#@ gdl_back_office
+msgid "Slider"
+msgstr ""
+
+#: include/goodlayers-option.php:43
+#@ gdl_back_office
+msgid "Blog / Portfolio"
+msgstr ""
+
+#: include/goodlayers-option.php:44
+#@ gdl_back_office
+msgid "Contact Form/Comments"
+msgstr ""
+
+#: include/goodlayers-option.php:45
+#@ gdl_back_office
+msgid "Additional Elements 1"
+msgstr ""
+
+#: include/goodlayers-option.php:46
+#@ gdl_back_office
+msgid "Additional Elements 2"
+msgstr ""
+
+#: include/goodlayers-option.php:47
+#@ gdl_back_office
+msgid "Price Item"
+msgstr ""
+
+#: include/goodlayers-option.php:48
+#@ gdl_back_office
+msgid "Load Default Color"
+msgstr ""
+
+#: include/goodlayers-option.php:50
+#@ gdl_back_office
+msgid "Translator"
+msgstr ""
+
+#: include/goodlayers-option.php:51
+#@ gdl_back_office
+msgid "Enable Admin Translator"
+msgstr ""
+
+#: include/goodlayers-option.php:52
+#@ gdl_back_office
+msgid "Blog/Portfolio"
+msgstr ""
+
+#: include/goodlayers-option.php:53
+#@ gdl_back_office
+msgid "Contact Form"
+msgstr ""
+
+#: include/goodlayers-option.php:54
+#: include/plugin/custom-widget/contact-widget.php:251
+#@ gdl_back_office
+msgid "Contact Widget"
+msgstr ""
+
+#: include/goodlayers-option.php:55
+#@ gdl_back_office
+msgid "Additional Elements"
+msgstr ""
+
+#: include/goodlayers-option.php:58
+#@ gdl_back_office
+msgid "Slider Setting"
+msgstr ""
+
+#: include/goodlayers-option.php:59
+#@ gdl_back_office
+msgid "Nivo Slider"
+msgstr ""
+
+#: include/goodlayers-option.php:60
+#@ gdl_back_office
+msgid "Flex Slider"
+msgstr ""
+
+#: include/goodlayers-option.php:61
+#@ gdl_back_office
+msgid "Anything Slider"
+msgstr ""
+
+#: include/goodlayers-option.php:62
+#@ gdl_back_office
+msgid "Custom Slider"
+msgstr ""
+
+#: include/goodlayers-option.php:70
+#@ gdl_back_office
+msgid "ENABLE RESPONSIVE"
+msgstr ""
+
+#: include/goodlayers-option.php:76
+#@ gdl_back_office
+msgid "DEFAULT DATE FORMAT"
+msgstr ""
+
+#: include/goodlayers-option.php:80
+#@ gdl_back_office
+msgid "DEFAULT WIDGET DATE FORMAT"
+msgstr ""
+
+#: include/goodlayers-option.php:84
+#@ gdl_back_office
+msgid "USE PORTFOLIO PAGE AS"
+msgstr ""
+
+#: include/goodlayers-option.php:89
+#@ gdl_back_office
+msgid "CHANGE PORTFOLIO SLUG"
+msgstr ""
+
+#: include/goodlayers-option.php:95
+#@ gdl_back_office
+msgid "SEARCH/ARCHIVE SIDEBAR"
+msgstr ""
+
+#: include/goodlayers-option.php:104
+#@ gdl_back_office
+msgid "SEARCH/ARCHIVE EXCERPT NUM"
+msgstr ""
+
+#: include/goodlayers-option.php:109
+#@ gdl_back_office
+msgid "SEARCH/ARCHIVE ITEM SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:114
+#@ gdl_back_office
+msgid "SEARCH/ARCHIVE FULL BLOG CONTENT"
+msgstr ""
+
+#: include/goodlayers-option.php:120
+#@ gdl_back_office
+msgid "DEFAULT POST SIDEBAR"
+msgstr ""
+
+#: include/goodlayers-option.php:129
+#@ gdl_back_office
+msgid "DEFAULT POST LEFT SIDEBAR"
+msgstr ""
+
+#: include/goodlayers-option.php:134
+#@ gdl_back_office
+msgid "DEFAULT POST RIGHT SIDEBAR"
+msgstr ""
+
+#: include/goodlayers-option.php:142
+#@ gdl_back_office
+msgid "CREATE SIDEBAR"
+msgstr ""
+
+#: include/goodlayers-option.php:146
+#@ gdl_back_office
+msgid "CHOOSE FOOTER STYLE"
+msgstr ""
+
+#: include/goodlayers-option.php:158
+#@ gdl_back_office
+msgid "SHOW FOOTER"
+msgstr ""
+
+#: include/goodlayers-option.php:159
+#@ gdl_back_office
+msgid "SHOW COPYRIGHT"
+msgstr ""
+
+#: include/goodlayers-option.php:163
+#@ gdl_back_office
+msgid "ENABLE GOOGLE ANALYTICS"
+msgstr ""
+
+#: include/goodlayers-option.php:164
+#@ gdl_back_office
+msgid "GOOGLE ANALYTICS CODE"
+msgstr ""
+
+#: include/goodlayers-option.php:171
+#@ gdl_back_office
+msgid "ENABLE FAVICON"
+msgstr ""
+
+#: include/goodlayers-option.php:172
+#@ gdl_back_office
+msgid "UPLOAD FAVICON ICON"
+msgstr ""
+
+#: include/goodlayers-option.php:177
+#@ gdl_back_office
+msgid "H1 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:178
+#@ gdl_back_office
+msgid "H2 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:179
+#@ gdl_back_office
+msgid "H3 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:180
+#@ gdl_back_office
+msgid "H4 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:181
+#@ gdl_back_office
+msgid "H5 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:182
+#@ gdl_back_office
+msgid "H6 SIZE"
+msgstr ""
+
+#: include/goodlayers-option.php:186
+#@ gdl_back_office
+msgid "HEADER FONT"
+msgstr ""
+
+#: include/goodlayers-option.php:188
+#@ gdl_back_office
+msgid "SLIDER FONT"
+msgstr ""
+
+#: include/goodlayers-option.php:189
+#@ gdl_back_office
+msgid "CONTENT FONT"
+msgstr ""
+
+#: include/goodlayers-option.php:191
+#@ gdl_back_office
+msgid "STUNNING TEXT FONT"
+msgstr ""
+
+#: include/goodlayers-option.php:197
+#@ gdl_back_office
+msgid "UPLOAD FONT"
+msgstr ""
+
+#: include/goodlayers-option.php:205
+#@ gdl_back_office
+msgid "PAGE DEFUALT HEADER"
+msgstr ""
+
+#: include/goodlayers-option.php:206
+#@ gdl_back_office
+msgid "POST DEFAULT HEADER"
+msgstr ""
+
+#: include/goodlayers-option.php:207
+#@ gdl_back_office
+msgid "PORTFOLIO DEFAULT HEADER"
+msgstr ""
+
+#: include/goodlayers-option.php:208
+#@ gdl_back_office
+msgid "ARCHIVE DEFAULT HEADER"
+msgstr ""
+
+#: include/goodlayers-option.php:212
+#@ gdl_back_office
+msgid "LOGO"
+msgstr ""
+
+#: include/goodlayers-option.php:213
+#@ gdl_back_office
+msgid "LOGO TOP MARGIN"
+msgstr ""
+
+#: include/goodlayers-option.php:215
+#@ gdl_back_office
+msgid "LOGO LEFT MARGIN"
+msgstr ""
+
+#: include/goodlayers-option.php:216
+#@ gdl_back_office
+msgid "LOGO BOTTOM MARGIN"
+msgstr ""
+
+#: include/goodlayers-option.php:218
+#@ gdl_back_office
+msgid "NAVIGATION TOP MARGIN"
+msgstr ""
+
+#: include/goodlayers-option.php:220
+#@ gdl_back_office
+msgid "NAVIGATION RIGHT MARGIN"
+msgstr ""
+
+#: include/goodlayers-option.php:224
+#@ gdl_back_office
+msgid "ENABLE SOCIAL NETWORK"
+msgstr ""
+
+#: include/goodlayers-option.php:225
+#@ gdl_back_office
+msgid "BOTTOM SPACE"
+msgstr ""
+
+#: include/goodlayers-option.php:227
+#: include/goodlayers-option.php:270
+#@ gdl_back_office
+msgid "DELICIOUS"
+msgstr ""
+
+#: include/goodlayers-option.php:229
+#@ gdl_back_office
+msgid "DEVIANTART"
+msgstr ""
+
+#: include/goodlayers-option.php:231
+#: include/goodlayers-option.php:272
+#@ gdl_back_office
+msgid "DIGG"
+msgstr ""
+
+#: include/goodlayers-option.php:233
+#: include/goodlayers-option.php:262
+#@ gdl_back_office
+msgid "FACEBOOK"
+msgstr ""
+
+#: include/goodlayers-option.php:235
+#@ gdl_back_office
+msgid "FLICKR"
+msgstr ""
+
+#: include/goodlayers-option.php:237
+#@ gdl_back_office
+msgid "LASTFM"
+msgstr ""
+
+#: include/goodlayers-option.php:239
+#: include/goodlayers-option.php:276
+#@ gdl_back_office
+msgid "LINKEDIN"
+msgstr ""
+
+#: include/goodlayers-option.php:241
+#@ gdl_back_office
+msgid "PICASA"
+msgstr ""
+
+#: include/goodlayers-option.php:243
+#@ gdl_back_office
+msgid "RSS"
+msgstr ""
+
+#: include/goodlayers-option.php:245
+#: include/goodlayers-option.php:266
+#@ gdl_back_office
+msgid "STUMBLE UPON"
+msgstr ""
+
+#: include/goodlayers-option.php:247
+#@ gdl_back_office
+msgid "TUMBLR"
+msgstr ""
+
+#: include/goodlayers-option.php:249
+#: include/goodlayers-option.php:264
+#@ gdl_back_office
+msgid "TWITTER"
+msgstr ""
+
+#: include/goodlayers-option.php:251
+#@ gdl_back_office
+msgid "VIMEO"
+msgstr ""
+
+#: include/goodlayers-option.php:253
+#@ gdl_back_office
+msgid "YOUTUBE"
+msgstr ""
+
+#: include/goodlayers-option.php:268
+#@ gdl_back_office
+msgid "MY SPACE"
+msgstr ""
+
+#: include/goodlayers-option.php:274
+#@ gdl_back_office
+msgid "REDDIT"
+msgstr ""
+
+#: include/goodlayers-option.php:278
+#@ gdl_back_office
+msgid "GOOGLE PLUS"
+msgstr ""
+
+#: include/goodlayers-option.php:284
+#@ gdl_back_office
+msgid "COPYRIGHT LEFT AREA"
+msgstr ""
+
+#: include/goodlayers-option.php:285
+#@ gdl_back_office
+msgid "COPYRIGHT RIGHT AREA"
+msgstr ""
+
+#: include/goodlayers-option.php:295
+#@ gdl_back_office
+msgid "MAIN NAVIGATION TEXT"
+msgstr ""
+
+#: include/goodlayers-option.php:297
+#@ gdl_back_office
+msgid "MAIN NAVIGATION TEXT HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:299
+#@ gdl_back_office
+msgid "MAIN NAVIGATION TEXT CURRENT"
+msgstr ""
+
+#: include/goodlayers-option.php:301
+#@ gdl_back_office
+msgid "SUB NAVIGATION TEXT"
+msgstr ""
+
+#: include/goodlayers-option.php:302
+#@ gdl_back_office
+msgid "SUB NAVIGATION TEXT HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:303
+#@ gdl_back_office
+msgid "SUB NAVIGATION TEXT CURRENT"
+msgstr ""
+
+#: include/goodlayers-option.php:304
+#@ gdl_back_office
+msgid "HEADER BOTTOM LINE BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:306
+#@ gdl_back_office
+msgid "TOP SLIDER BOTTOM LINE BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:307
+#@ gdl_back_office
+msgid "UNDER SLIDER BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:308
+#@ gdl_back_office
+msgid "UNDER SLIDER TITLE"
+msgstr ""
+
+#: include/goodlayers-option.php:309
+#@ gdl_back_office
+msgid "UNDER SLIDER CONTENT"
+msgstr ""
+
+#: include/goodlayers-option.php:310
+#@ gdl_back_office
+msgid "UNDER SLIDER LINK"
+msgstr ""
+
+#: include/goodlayers-option.php:311
+#@ gdl_back_office
+msgid "UNDER SLIDER LINK HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:315
+#@ gdl_back_office
+msgid "SEARCH BOX BACKGROUND COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:316
+#@ gdl_back_office
+msgid "SEARCH BOX SHADOW COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:318
+#@ gdl_back_office
+msgid "SEARCH BOX TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:322
+#@ gdl_back_office
+msgid "ICON STYLE"
+msgstr ""
+
+#: include/goodlayers-option.php:327
+#@ gdl_back_office
+msgid "PAGE TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:329
+#@ gdl_back_office
+msgid "PAGE TITLE SHADOW"
+msgstr ""
+
+#: include/goodlayers-option.php:330
+#@ gdl_back_office
+msgid "PAGE CAPTION COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:331
+#@ gdl_back_office
+msgid "TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:333
+#@ gdl_back_office
+msgid "TITLE BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:335
+#@ gdl_back_office
+msgid "SIDEBAR TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:336
+#@ gdl_back_office
+msgid "CONTENT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:337
+#@ gdl_back_office
+msgid "BODY BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:339
+#@ gdl_back_office
+msgid "LINK COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:341
+#@ gdl_back_office
+msgid "LINK HOVER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:343
+#@ gdl_back_office
+msgid "TABLE BORDER (TABLE TAG)"
+msgstr ""
+
+#: include/goodlayers-option.php:344
+#@ gdl_back_office
+msgid "TABLE TITLE TEXT COLOR (TH TAG)"
+msgstr ""
+
+#: include/goodlayers-option.php:345
+#@ gdl_back_office
+msgid "TABLE TITLE BACKGROUND (TH TAG)"
+msgstr ""
+
+#: include/goodlayers-option.php:350
+#@ gdl_back_office
+msgid "FOOTER ICON TYPE"
+msgstr ""
+
+#: include/goodlayers-option.php:352
+#@ gdl_back_office
+msgid "FOOTER LINK COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:354
+#@ gdl_back_office
+msgid "FOOTER LINK HOVER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:356
+#@ gdl_back_office
+msgid "FOOTER TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:357
+#@ gdl_back_office
+msgid "FOOTER CONTENT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:358
+#@ gdl_back_office
+msgid "FOOTER CONTENT INFO COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:360
+#@ gdl_back_office
+msgid "FOOTER BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:361
+#@ gdl_back_office
+msgid "FOOTER TOP BAR"
+msgstr ""
+
+#: include/goodlayers-option.php:363
+#@ gdl_back_office
+msgid "FOOTER DIVIDER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:364
+#@ gdl_back_office
+msgid "FOOTER INPUT BOX TEXT"
+msgstr ""
+
+#: include/goodlayers-option.php:366
+#@ gdl_back_office
+msgid "FOOTER INPUT BOX BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:367
+#@ gdl_back_office
+msgid "FOOTER INPUT BOX BORDER"
+msgstr ""
+
+#: include/goodlayers-option.php:368
+#@ gdl_back_office
+msgid "FOOTER BUTTON COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:370
+#@ gdl_back_office
+msgid "FOOTER BUTTON TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:371
+#@ gdl_back_office
+msgid "COPYRIGHT TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:372
+#@ gdl_back_office
+msgid "COPYRIGHT BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:373
+#@ gdl_back_office
+msgid "COPYRIGHT SHADOW COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:378
+#@ gdl_back_office
+msgid "SLIDER TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:379
+#@ gdl_back_office
+msgid "SLIDER CAPTION COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:383
+#@ gdl_back_office
+msgid "PORT TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:385
+#@ gdl_back_office
+msgid "PORT TITLE HOVER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:387
+#@ gdl_back_office
+msgid "PORT FILTER BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:388
+#@ gdl_back_office
+msgid "PORT FILTER TEXT"
+msgstr ""
+
+#: include/goodlayers-option.php:389
+#@ gdl_back_office
+msgid "PORT FILTER HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:390
+#@ gdl_back_office
+msgid "PORT FILTER CURRENT"
+msgstr ""
+
+#: include/goodlayers-option.php:391
+#@ gdl_back_office
+msgid "BLOG TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:393
+#@ gdl_back_office
+msgid "BLOG TITLE HOVER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:395
+#@ gdl_back_office
+msgid "BLOG INFO COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:397
+#@ gdl_back_office
+msgid "BLOG ABOUT AUTHOR BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:399
+#@ gdl_back_office
+msgid "PAGINATION NORMAL STATE"
+msgstr ""
+
+#: include/goodlayers-option.php:404
+#@ gdl_back_office
+msgid "CONTACT FORM/COMMENT BACKGROUND COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:406
+#@ gdl_back_office
+msgid "CONTACT FORM/COMMENT TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:408
+#@ gdl_back_office
+msgid "CONTACT FORM/COMMENT BORDER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:409
+#@ gdl_back_office
+msgid "CONTACT FORM/COMMENT FRAME COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:410
+#@ gdl_back_office
+msgid "CONTACT FORM/COMMENT INNER SHADOW"
+msgstr ""
+
+#: include/goodlayers-option.php:415
+#@ gdl_back_office
+msgid "DIVIDER LINE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:417
+#@ gdl_back_office
+msgid "DIVIDER ITEM BACK TO TOP TEXT"
+msgstr ""
+
+#: include/goodlayers-option.php:419
+#@ gdl_back_office
+msgid "STUNNING TEXT TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:420
+#@ gdl_back_office
+msgid "STUNNING TEXT CAPTION COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:421
+#@ gdl_back_office
+msgid "STUNNING TEXT CAPTION BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:422
+#@ gdl_back_office
+msgid "TESTIMONIAL TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:423
+#@ gdl_back_office
+msgid "TESTIMONIAL TEXT AUTHOR COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:424
+#@ gdl_back_office
+msgid "TESTIMONIAL TEXT POSITION COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:425
+#@ gdl_back_office
+msgid "TWITTER ITEM CONTENT"
+msgstr ""
+
+#: include/goodlayers-option.php:426
+#@ gdl_back_office
+msgid "TWITTER ITEM DATE"
+msgstr ""
+
+#: include/goodlayers-option.php:430
+#@ gdl_back_office
+msgid "FEATURE MEDIA TITLE"
+msgstr ""
+
+#: include/goodlayers-option.php:431
+#@ gdl_back_office
+msgid "FEATURE MEDIA CAPTION"
+msgstr ""
+
+#: include/goodlayers-option.php:432
+#@ gdl_back_office
+msgid "FEATURE MEDIA CONTENT"
+msgstr ""
+
+#: include/goodlayers-option.php:433
+#@ gdl_back_office
+msgid "TAB BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:435
+#@ gdl_back_office
+msgid "TAB TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:436
+#@ gdl_back_office
+msgid "TAB ACTIVE BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:438
+#@ gdl_back_office
+msgid "TAB ACTIVE TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:439
+#@ gdl_back_office
+msgid "TAB BORDER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:440
+#@ gdl_back_office
+msgid "BUTTON BACKGROUND COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:442
+#@ gdl_back_office
+msgid "BUTTON TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:444
+#@ gdl_back_office
+msgid "BUTTON TEXT HOVER COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:446
+#@ gdl_back_office
+msgid "BUTTON SHADOW COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:451
+#@ gdl_back_office
+msgid "PRICE TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:453
+#@ gdl_back_office
+msgid "BEST PRICE TEXT COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:455
+#@ gdl_back_office
+msgid "PRICE TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:457
+#@ gdl_back_office
+msgid "BEST PRICE TITLE COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:459
+#@ gdl_back_office
+msgid "PRICE TITLE BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:460
+#@ gdl_back_office
+msgid "BEST PRICE TITLE BACKGROUND"
+msgstr ""
+
+#: include/goodlayers-option.php:461
+#@ gdl_back_office
+msgid "PRICE ITEM BORDER"
+msgstr ""
+
+#: include/goodlayers-option.php:466
+#@ gdl_back_office
+msgid "LOAD DEFAULT ELEMENTS COLOR"
+msgstr ""
+
+#: include/goodlayers-option.php:473
+#@ gdl_back_office
+msgid "ENABLE ADMIN TRANSLATOR"
+msgstr ""
+
+#: include/goodlayers-option.php:477
+#@ gdl_back_office
+msgid "READ MORE (BLOG)"
+msgstr ""
+
+#: include/goodlayers-option.php:478
+#@ gdl_back_office
+msgid "LEAVE A REPLY (BLOG)"
+msgstr ""
+
+#: include/goodlayers-option.php:479
+#@ gdl_back_office
+msgid "ABOUT THE AUTHOR (BLOG)"
+msgstr ""
+
+#: include/goodlayers-option.php:480
+#@ gdl_back_office
+msgid "SOCIAL SHARE (BLOG/PORTFOLIO)"
+msgstr ""
+
+#: include/goodlayers-option.php:481
+#@ gdl_back_office
+msgid "CLIENT (PORTFOLIO)"
+msgstr ""
+
+#: include/goodlayers-option.php:482
+#@ gdl_back_office
+msgid "READ MORE (PORTFOLIO)"
+msgstr ""
+
+#: include/goodlayers-option.php:483
+#@ gdl_back_office
+msgid "VISIT WEBSITE (PORTFOLIO)"
+msgstr ""
+
+#: include/goodlayers-option.php:487
+#@ gdl_back_office
+msgid "NAME (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:488
+#@ gdl_back_office
+msgid "NAME ERROR (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:489
+#@ gdl_back_office
+msgid "EMAIL (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:490
+#@ gdl_back_office
+msgid "EMAIL ERROR (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:491
+#@ gdl_back_office
+msgid "MESSAGE (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:492
+#@ gdl_back_office
+msgid "MESSAGE ERROR (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:493
+#@ gdl_back_office
+msgid "SUBMIT BUTTON (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:494
+#@ gdl_back_office
+msgid "SEND ERROR (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:495
+#@ gdl_back_office
+msgid "SEND COMPLETE (CONTACT FORM)"
+msgstr ""
+
+#: include/goodlayers-option.php:499
+#@ gdl_back_office
+msgid "NAME (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:500
+#@ gdl_back_office
+msgid "EMAIL (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:501
+#@ gdl_back_office
+msgid "MESSAGE (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:502
+#@ gdl_back_office
+msgid "REQUIRE (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:503
+#@ gdl_back_office
+msgid "PLEASE WAIT (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:504
+#@ gdl_back_office
+msgid "SENDING COMPLETE (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:505
+#@ gdl_back_office
+msgid "SUBMIT BUTTON (CONTACT WIDGET)"
+msgstr ""
+
+#: include/goodlayers-option.php:509
+#@ gdl_back_office
+msgid "READ MORE (PRICE ITEM)"
+msgstr ""
+
+#: include/goodlayers-option.php:510
+#@ gdl_back_office
+msgid "404 TITLE (404 PAGE)"
+msgstr ""
+
+#: include/goodlayers-option.php:511
+#@ gdl_back_office
+msgid "404 CONTENT (404 PAGE)"
+msgstr ""
+
+#: include/goodlayers-option.php:512
+#@ gdl_back_office
+msgid "SEARCH NOT FOUND (SEARCH PAGE)"
+msgstr ""
+
+#: include/goodlayers-option.php:517
+#: include/goodlayers-option.php:544
+#@ gdl_back_office
+msgid "SLIDER EFFECTS"
+msgstr ""
+
+#: include/goodlayers-option.php:528
+#: include/goodlayers-option.php:546
+#: include/goodlayers-option.php:560
+#@ gdl_back_office
+msgid "PAUSE ON HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:530
+#: include/goodlayers-option.php:548
+#: include/goodlayers-option.php:562
+#@ gdl_back_office
+msgid "SHOW BULLETS"
+msgstr ""
+
+#: include/goodlayers-option.php:532
+#@ gdl_back_office
+msgid "SHOW LEFT/RIGHT NAVIGATION"
+msgstr ""
+
+#: include/goodlayers-option.php:534
+#: include/goodlayers-option.php:568
+#@ gdl_back_office
+msgid "ONLY SHOW NAVIGATION WHEN HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:536
+#: include/goodlayers-option.php:552
+#: include/goodlayers-option.php:570
+#: include/goodlayers-option.php:577
+#@ gdl_back_office
+msgid "ANIMATION SPEED"
+msgstr ""
+
+#: include/goodlayers-option.php:538
+#: include/goodlayers-option.php:554
+#: include/goodlayers-option.php:572
+#: include/goodlayers-option.php:579
+#@ gdl_back_office
+msgid "PAUSE TIME"
+msgstr ""
+
+#: include/goodlayers-option.php:540
+#@ gdl_back_office
+msgid "CAPTION OPACITY"
+msgstr ""
+
+#: include/goodlayers-option.php:550
+#: include/goodlayers-option.php:566
+#@ gdl_back_office
+msgid "SHOW NAVIGATION"
+msgstr ""
+
+#: include/goodlayers-option.php:556
+#@ gdl_back_office
+msgid "PAUSE ON ACTION"
+msgstr ""
+
+#: include/goodlayers-option.php:564
+#@ gdl_back_office
+msgid "ONLY SHOW BULLETS WHEN HOVER"
+msgstr ""
+
+#: include/goodlayers-option.php:731
+#: include/goodlayers-option.php:743
+#@ gdl_back_office
+msgid "Save Changes"
+msgstr ""
+
+#: include/goodlayers-option.php:1246
+#: include/goodlayers-option.php:1270
+#@ gdl_back_office
+msgid "Font Name"
+msgstr ""
+
+#: include/goodlayers-option.php:1250
+#: include/goodlayers-option.php:1274
+#@ gdl_back_office
+msgid "Font File"
+msgstr ""
+
+#: include/meta-template.php:387
+#: include/meta-template.php:438
+#@ gdl_back_office
+msgid "SLIDER TITLE"
+msgstr ""
+
+#: include/meta-template.php:390
+#: include/meta-template.php:441
+#@ gdl_back_office
+msgid "SLIDER CAPTION"
+msgstr ""
+
+#: include/meta-template.php:404
+#: include/meta-template.php:456
+#@ gdl_back_office
+msgid "VIDEO PATH (ONLY FOR ANYTHING SLIDER)"
+msgstr ""
+
+#: include/page-option.php:166
+#: include/page-option.php:183
+#: include/page-option.php:240
+#: include/page-option.php:291
+#: include/page-option.php:320
+#: include/page-option.php:567
+#: include/page-option.php:606
+#: include/page-option.php:623
+#@ gdl_back_office
+msgid "HEADER TITLE"
+msgstr ""
+
+#: include/page-option.php:170
+#: include/page-option.php:187
+#: include/page-option.php:244
+#: include/page-option.php:295
+#: include/page-option.php:324
+#: include/page-option.php:366
+#: include/page-option.php:421
+#: include/page-option.php:571
+#: include/page-option.php:610
+#: include/page-option.php:627
+#@ gdl_back_office
+msgid "HEADER ICON"
+msgstr ""
+
+#: include/page-option.php:631
+#@ gdl_back_office
+msgid "TWITTER NAME"
+msgstr ""
+
+#: include/page-option.php:635
+#@ gdl_back_office
+msgid "NUM FETCH"
+msgstr ""
+
+#: include/page-option.php:645
+#@ gdl_back_office
+msgid "SELECT LAYOUT"
+msgstr ""
+
+#: include/page-option.php:659
+#: include/portfolio-option.php:119
+#: include/post-option.php:32
+#@ gdl_back_office
+msgid "CHOOSE LEFT SIDEBAR"
+msgstr ""
+
+#: include/page-option.php:666
+#: include/portfolio-option.php:126
+#: include/post-option.php:40
+#@ gdl_back_office
+msgid "CHOOSE RIGHT SIDEBAR"
+msgstr ""
+
+#: include/page-option.php:675
+#@ gdl_back_office
+msgid "PAGE HEADER BACKGROUND"
+msgstr ""
+
+#: include/page-option.php:679
+#: include/portfolio-option.php:132
+#: include/post-option.php:47
+#@ gdl_back_office
+msgid "PAGE CAPTION"
+msgstr ""
+
+#: include/page-option.php:686
+#@ gdl_back_office
+msgid "HEADER ( AND CUSTOM SLIDER) MIN HEIGHT"
+msgstr ""
+
+#: include/page-option.php:694
+#@ gdl_back_office
+msgid "SHOW PAGE CONTENT"
+msgstr ""
+
+#: include/page-option.php:698
+#@ gdl_back_office
+msgid "TOP SLIDER TYPE"
+msgstr ""
+
+#: include/page-option.php:707
+#@ gdl_back_office
+msgid "TOP SLIDER HEIGHT"
+msgstr ""
+
+#: include/page-option.php:729
+#@ gdl_back_office
+msgid "ENABLE UNDER SLIDER AREA"
+msgstr ""
+
+#: include/page-option.php:739
+#@ gdl_back_office
+msgid "UNDER SLIDER 1"
+msgstr ""
+
+#: include/page-option.php:746
+#@ gdl_back_office
+msgid "UNDER SLIDER 2"
+msgstr ""
+
+#: include/page-option.php:753
+#@ gdl_back_office
+msgid "UNDER SLIDER 3"
+msgstr ""
+
+#: include/page-option.php:767
+#@ gdl_back_office
+msgid "Page Option"
+msgstr ""
+
+#: include/page-option.php:1030
+#@ gdl_back_office
+msgid "ADD ITEMS"
+msgstr ""
+
+#: include/plugin/blog-item.php:152
+#@ gdl_front_end
+msgid ", 0 Comment"
+msgstr ""
+
+#: include/plugin/blog-item.php:153
+#@ gdl_front_end
+msgid ", 1 Comment"
+msgstr ""
+
+#: include/plugin/blog-item.php:154
+#@ gdl_front_end
+msgid ", % Comments"
+msgstr ""
+
+#: include/plugin/blog-item.php:155
+#@ gdl_front_end
+msgid ", Comments are off"
+msgstr ""
+
+#: include/plugin/blog-item.php:172
+#: include/plugin/blog-item.php:225
+#: include/plugin/page-item.php:501
+#: include/plugin/page-item.php:813
+#: include/plugin/page-item.php:1044
+#@ gdl_front_end
+msgid "Read More"
+msgstr ""
+
+#: include/plugin/blog-item.php:193
+#: include/plugin/blog-item.php:242
+#: single-portfolio.php:157
+#: single.php:50
+#@ gdl_front_end
+msgid "by"
+msgstr "บาย"
+
+#: include/plugin/blog-item.php:196
+#: include/plugin/blog-item.php:245
+#: single-portfolio.php:159
+#: single.php:52
+#@ gdl_front_end
+msgid "0 Comment"
+msgstr ""
+
+#: include/plugin/blog-item.php:197
+#: include/plugin/blog-item.php:246
+#: single-portfolio.php:159
+#: single.php:53
+#@ gdl_front_end
+msgid "1 Comment"
+msgstr "1 Comment 2"
+
+#: include/plugin/blog-item.php:199
+#: include/plugin/blog-item.php:248
+#: single-portfolio.php:160
+#: single.php:55
+#@ gdl_front_end
+msgid "Comments are off"
+msgstr ""
+
+#: include/plugin/comment.php:25
+#@ gdl_back_office
+msgid "Pingback:"
+msgstr ""
+
+#: include/plugin/comment.php:27
+#@ gdl_back_office
+msgid "(Edit)"
+msgstr ""
+
+#: include/plugin/comment.php:43
+#@ gdl_front_end
+msgid "at"
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:41
+#@ gdl_back_office
+msgid "Contact From Widget."
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:47
+#@ gdl_back_office
+msgid "Contact (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:142
+#: include/plugin/page-item.php:575
+#@ gdl_front_end
+msgid "Message"
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:143
+#@ gdl_front_end
+msgid "* Require"
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:144
+#: include/plugin/page-item.php:577
+#@ gdl_front_end
+msgid "Submit"
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:145
+#@ gdl_front_end
+msgid "Please Wait..."
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:146
+#@ gdl_front_end
+msgid "Thanks! Your email was sent"
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:256
+#: include/plugin/custom-widget/flickr-widget.php:105
+#: include/plugin/custom-widget/popular-post-widget.php:144
+#: include/plugin/custom-widget/twitter-widget.php:106
+#: include/plugin/dropdown-menus.php:224
+#@ gdl_back_office
+#@ default
+msgid "Title:"
+msgstr ""
+
+#: include/plugin/custom-widget/contact-widget.php:262
+#@ gdl_back_office
+msgid "Email:"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:41
+#@ gdl_back_office
+msgid "A widget that show last posts"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:47
+#@ gdl_back_office
+msgid "Recent Posts (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:129
+#@ gdl_back_office
+msgid "Recent Posts Widget"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:129
+#: include/plugin/custom-widget/custom-port-widget-2.php:120
+#: include/plugin/custom-widget/custom-port-widget.php:129
+#@ gdl_back_office
+msgid "All"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:134
+#: include/plugin/custom-widget/custom-port-widget-2.php:125
+#: include/plugin/custom-widget/custom-port-widget.php:134
+#@ gdl_back_office
+msgid "Title :"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:140
+#: include/plugin/custom-widget/custom-port-widget-2.php:131
+#: include/plugin/custom-widget/custom-port-widget.php:140
+#@ gdl_back_office
+msgid "Category :"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-blog-widget.php:153
+#: include/plugin/custom-widget/custom-port-widget-2.php:144
+#: include/plugin/custom-widget/custom-port-widget.php:153
+#@ gdl_back_office
+msgid "Show Count :"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-port-widget-2.php:41
+#: include/plugin/custom-widget/custom-port-widget.php:41
+#@ gdl_back_office
+msgid "A widget that show last portfolio"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-port-widget-2.php:47
+#@ gdl_back_office
+msgid "Recent Port 2nd Style (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-port-widget-2.php:120
+#: include/plugin/custom-widget/custom-port-widget.php:129
+#@ gdl_back_office
+msgid "Recent Port Widget"
+msgstr ""
+
+#: include/plugin/custom-widget/custom-port-widget.php:47
+#@ gdl_back_office
+msgid "Recent Port (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:41
+#@ gdl_back_office
+msgid "A widget that show last flickr photo streams"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:47
+#@ gdl_back_office
+msgid "Flickr (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:100
+#@ gdl_back_office
+msgid "Flickr Widget"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:100
+#: include/plugin/custom-widget/popular-post-widget.php:139
+#@ gdl_back_office
+msgid "0"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:110
+#@ gdl_back_office
+msgid "Flickr id"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:115
+#: include/plugin/custom-widget/popular-post-widget.php:154
+#: include/plugin/custom-widget/twitter-widget.php:118
+#@ gdl_back_office
+msgid "Show Count"
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:117
+#@ gdl_back_office
+msgid "Max is \"10\""
+msgstr ""
+
+#: include/plugin/custom-widget/flickr-widget.php:121
+#@ gdl_back_office
+msgid "What pictures to display"
+msgstr ""
+
+#: include/plugin/custom-widget/popular-post-widget.php:41
+#@ gdl_back_office
+msgid "A widget that show popular posts"
+msgstr ""
+
+#: include/plugin/custom-widget/popular-post-widget.php:47
+#@ gdl_back_office
+msgid "Popular Posts (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/popular-post-widget.php:139
+#@ gdl_back_office
+msgid "Popular Posts Widget"
+msgstr ""
+
+#: include/plugin/custom-widget/twitter-widget.php:41
+#@ gdl_back_office
+msgid "A widget that show Twitter feeds."
+msgstr ""
+
+#: include/plugin/custom-widget/twitter-widget.php:47
+#@ gdl_back_office
+msgid "Twitter (Goodlayers)"
+msgstr ""
+
+#: include/plugin/custom-widget/twitter-widget.php:101
+#@ gdl_back_office
+msgid "Twitter Widget"
+msgstr ""
+
+#: include/plugin/custom-widget/twitter-widget.php:112
+#@ gdl_back_office
+msgid "Twitter username"
+msgstr ""
+
+#: include/plugin/dropdown-menus.php:181
+#@ default
+msgid "Use this widget to add one of your custom menus as a dropdown."
+msgstr ""
+
+#: include/plugin/dropdown-menus.php:182
+#@ default
+msgid "Dropdown Menu"
+msgstr ""
+
+#: include/plugin/dropdown-menus.php:219
+#, php-format
+#@ default
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: include/plugin/dropdown-menus.php:228
+#@ default
+msgid "Select Menu:"
+msgstr ""
+
+#: include/plugin/filosofo-image/filosofo-custom-image-sizes.php:151
+#@ gdl_back_office
+msgid "Could not read image size"
+msgstr ""
+
+#: include/plugin/filosofo-image/filosofo-custom-image-sizes.php:156
+#@ gdl_back_office
+msgid "Could not calculate resized image dimensions"
+msgstr ""
+
+#: include/plugin/filosofo-image/filosofo-custom-image-sizes.php:185
+#: include/plugin/filosofo-image/filosofo-custom-image-sizes.php:188
+#: include/plugin/filosofo-image/filosofo-custom-image-sizes.php:193
+#@ gdl_back_office
+msgid "Resize path invalid"
+msgstr ""
+
+#: include/plugin/page-item.php:572
+#@ gdl_front_end
+msgid "Please enter your name"
+msgstr ""
+
+#: include/plugin/page-item.php:574
+#@ gdl_front_end
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: include/plugin/page-item.php:576
+#@ gdl_front_end
+msgid "Please enter message"
+msgstr ""
+
+#: include/plugin/page-item.php:812
+#: single-portfolio.php:21
+#@ gdl_front_end
+msgid "Visit Website"
+msgstr ""
+
+#: include/plugin/really-simple-captcha/cbnet-really-simple-captcha-comments.php:69
+#@ gdl_front_end
+msgid "Anti-Spam"
+msgstr ""
+
+#: include/plugin/utility.php:120
+#@ gdl_back_office
+msgid "SELECT MEDIA"
+msgstr ""
+
+#: include/plugin/utility.php:231
+#@ gdl_front_end
+msgid "The e-mail was sent successfully"
+msgstr ""
+
+#: include/plugin/utility.php:232
+#@ gdl_front_end
+msgid "Message cannot be sent to destination"
+msgstr ""
+
+#: include/portfolio-option.php:20
+#@ gdl_back_office
+msgctxt "Portfolio General Name"
+msgid "Portfolio"
+msgstr ""
+
+#: include/portfolio-option.php:21
+#@ gdl_back_office
+msgctxt "Portfolio Singular Name"
+msgid "Portfolio Item"
+msgstr ""
+
+#: include/portfolio-option.php:22
+#@ gdl_back_office
+msgctxt "Add New Portfolio Name"
+msgid "Add New"
+msgstr ""
+
+#: include/portfolio-option.php:23
+#@ gdl_back_office
+msgid "Add New Portfolio"
+msgstr ""
+
+#: include/portfolio-option.php:24
+#@ gdl_back_office
+msgid "Edit Portfolio"
+msgstr ""
+
+#: include/portfolio-option.php:25
+#@ gdl_back_office
+msgid "New Portfolio"
+msgstr ""
+
+#: include/portfolio-option.php:26
+#@ gdl_back_office
+msgid "View Portfolio"
+msgstr ""
+
+#: include/portfolio-option.php:27
+#@ gdl_back_office
+msgid "Search Portfolio"
+msgstr ""
+
+#: include/portfolio-option.php:107
+#: include/post-option.php:20
+#@ gdl_back_office
+msgid "SIDEBAR TEMPLATE"
+msgstr ""
+
+#: include/portfolio-option.php:137
+#@ gdl_back_office
+msgid "CLIENTS NAME"
+msgstr ""
+
+#: include/portfolio-option.php:143
+#@ gdl_back_office
+msgid "WEBSITE URL"
+msgstr ""
+
+#: include/portfolio-option.php:149
+#: include/post-option.php:52
+#@ gdl_back_office
+msgid "SHOW AUTHOR INFORMATION"
+msgstr ""
+
+#: include/portfolio-option.php:156
+#: include/post-option.php:59
+#@ gdl_back_office
+msgid "SOCIAL NETWORK SHARING"
+msgstr ""
+
+#: include/portfolio-option.php:166
+#: include/post-option.php:67
+#@ gdl_back_office
+msgid "THUMBNAIL TYPES"
+msgstr ""
+
+#: include/portfolio-option.php:180
+#@ gdl_back_office
+msgid "USE FEATURED IMAGE AS"
+msgstr ""
+
+#: include/portfolio-option.php:193
+#@ gdl_back_office
+msgid "SPECIFIC URL"
+msgstr ""
+
+#: include/portfolio-option.php:204
+#: include/portfolio-option.php:256
+#: include/post-option.php:92
+#: include/post-option.php:144
+#@ gdl_back_office
+msgid "VIDEO URL"
+msgstr ""
+
+#: include/portfolio-option.php:231
+#: include/post-option.php:119
+#@ gdl_back_office
+msgid "INSIDE POST THUMBNAIL TYPES"
+msgstr ""
+
+#: include/portfolio-option.php:245
+#: include/post-option.php:133
+#@ gdl_back_office
+msgid "SELECT IMAGE"
+msgstr ""
+
+#: include/portfolio-option.php:286
+#@ gdl_back_office
+msgid "Portfolio Option"
+msgstr ""
+
+#: include/post-option.php:81
+#@ gdl_back_office
+msgid "Use Featured Image as Thumbnail Image"
+msgstr ""
+
+#: include/post-option.php:174
+#@ gdl_back_office
+msgid "Post Option"
+msgstr ""
+
+#: include/price-table-option.php:19
+#@ gdl_back_office
+msgctxt "Price Table General Name"
+msgid "Price Table"
+msgstr ""
+
+#: include/price-table-option.php:20
+#@ gdl_back_office
+msgctxt "Price Table Singular Name"
+msgid "Price Table Item"
+msgstr ""
+
+#: include/price-table-option.php:21
+#@ gdl_back_office
+msgctxt "Add New Price Table Name"
+msgid "Add New"
+msgstr ""
+
+#: include/price-table-option.php:22
+#: include/price-table-option.php:23
+#@ gdl_back_office
+msgid "Price Table Name"
+msgstr ""
+
+#: include/price-table-option.php:24
+#@ gdl_back_office
+msgid "New Price Table"
+msgstr ""
+
+#: include/price-table-option.php:26
+#@ gdl_back_office
+msgid "Search Price Table"
+msgstr ""
+
+#: include/price-table-option.php:85
+#@ gdl_back_office
+msgid "Price Tag"
+msgstr ""
+
+#: include/price-table-option.php:89
+#@ gdl_back_office
+msgid "BUTTON LINK TO URL"
+msgstr ""
+
+#: include/price-table-option.php:93
+#@ gdl_back_office
+msgid "BEST PRICE"
+msgstr ""
+
+#: include/price-table-option.php:105
+#@ gdl_back_office
+msgid "Price Table Option"
+msgstr ""
+
+#: include/testimonial-option.php:19
+#@ gdl_back_office
+msgctxt "Testimonial General Name"
+msgid "Testimonial"
+msgstr ""
+
+#: include/testimonial-option.php:20
+#@ gdl_back_office
+msgctxt "Testimonial Singular Name"
+msgid "Testimonial Item"
+msgstr ""
+
+#: include/testimonial-option.php:21
+#@ gdl_back_office
+msgctxt "Add New Testimonial Name"
+msgid "Add New"
+msgstr ""
+
+#: include/testimonial-option.php:22
+#: include/testimonial-option.php:23
+#@ gdl_back_office
+msgid "Author Name"
+msgstr ""
+
+#: include/testimonial-option.php:24
+#@ gdl_back_office
+msgid "New Testimonial"
+msgstr ""
+
+#: include/testimonial-option.php:26
+#@ gdl_back_office
+msgid "Search Testimonial"
+msgstr ""
+
+#: include/testimonial-option.php:85
+#@ gdl_back_office
+msgid "AUTHOR POSITION"
+msgstr ""
+
+#: include/testimonial-option.php:93
+#@ gdl_back_office
+msgid "Testimonial Option"
+msgstr ""
+
+#: search.php:59
+#@ gdl_front_end
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: single-portfolio.php:20
+#@ gdl_front_end
+msgid "Client"
+msgstr ""
+
+#: single-portfolio.php:22
+#: single.php:20
+#@ gdl_front_end
+msgid "About the Author"
+msgstr ""
+
+#: single-portfolio.php:23
+#: single.php:21
+#@ gdl_front_end
+msgid "Social Share"
+msgstr ""
+
+#: single-portfolio.php:113
+#@ gdl_front_end
+msgid "Date:"
+msgstr ""
+
+#: single-portfolio.php:118
+#@ gdl_front_end
+msgid "Tags:"
+msgstr ""
+
