@@ -1,5 +1,5 @@
 set :application, 'connectchristiancounseling'
-set :repo_url, 'git@github.com:thuijssoon/c3.git'
+set :repo_url, 'git@github.com:scc-main/scc-bedrock.git'
 
 # Branch options
 # Prompts for the branch name (defaults to current branch)
