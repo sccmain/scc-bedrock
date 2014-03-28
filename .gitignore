@@ -18,6 +18,7 @@ app/plugins/*
 !app/plugins/.gitkeep
 !app/plugins/taxonomy-metadata/
 !app/plugins/domain-mapping/
+!app/plugins/wp-migrate-db-pro/
 app/mu-plugins/*
 !app/mu-plugins/register-theme-directory.php
 app/themes/*
