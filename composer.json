@@ -72,6 +72,14 @@
       "require" : {
         "th-framewrok": "0.1"
       }
+    },
+    {
+      "name": "sccmain/scc-greenearth-child",
+      "type" : "git",
+      "url"  : "git@github.com:sccmain/scc-greenearth-child.git",
+      "require" : {
+        "sccmain/th-scc-utility": "0.1"
+      }
     }
   ],
   "require": {
@@ -79,6 +87,7 @@
     "wordpress": "3.8.1",
     "th-framewrok": "0.1",
     "sccmain/th-scc-utility": "0.1",
+    "sccmain/scc-greenearth-child": "0.1.*",
     "fancyguy/webroot-installer": "1.1.0",
     "composer/installers": "v1.0.6",
     "wp-cli/wp-cli": "v0.13.0",

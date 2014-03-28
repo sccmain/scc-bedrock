@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "311d5034531da6034aabd256e4817d0e",
+    "hash": "ba03f97227c6b990114744144df68c86",
     "packages": [
         {
             "name": "composer/installers",
@@ -252,6 +252,37 @@
                 "sockets"
             ],
             "time": "2013-10-06 13:30:32"
+        },
+        {
+            "name": "sccmain/scc-greenearth-child",
+            "version": "0.1.1",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:sccmain/scc-greenearth-child.git",
+                "reference": "2b0ca890596faa393a8d910c6d0b2262dce999a2"
+            },
+            "require": {
+                "composer/installers": "v1.0.6",
+                "php": ">=5.3.2"
+            },
+            "type": "wordpress-theme",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "August Infotech",
+                    "email": "jignasa@augustinfotech.com"
+                }
+            ],
+            "description": "Greenearth child theme for SCC",
+            "homepage": "https://github.com/sccmain/scc-greenearth-child",
+            "keywords": [
+                "scc",
+                "theme",
+                "wordpress"
+            ],
+            "time": "2014-03-28 16:02:36"
         },
         {
             "name": "sccmain/th-scc-utility",
