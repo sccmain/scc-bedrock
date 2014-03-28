@@ -19,6 +19,7 @@ app/plugins/*
 !app/plugins/taxonomy-metadata/
 !app/plugins/domain-mapping/
 !app/plugins/wp-migrate-db-pro/
+!app/plugins/multisite-content-copier/
 app/mu-plugins/*
 !app/mu-plugins/register-theme-directory.php
 app/themes/*
