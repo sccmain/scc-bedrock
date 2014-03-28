@@ -1,0 +1,42 @@
+== 4.1.2 ==
+
+* Fixed domain health status check process
+* Fixed front end SSL mapping issue
+* Fixed x-autocomplete fields for eNom forms
+* Fixed unexpected redirect issue due to canonical URL difference
+* Implemented ability to override standard domain mapping instructions
+* Implemented ability to set front end mapping for a certain blog
+* Reworked cross domain single sign on implementation + better SSL support
+
+== 4.1.1 ==
+
+* Fixed issue with password protected pages.
+* Fixed issue with wrongly replaced links a post/page content.
+* Fixed database query issue related to cookies building which appear on sign up page.
+* Implemented new version of WPMUDev Dashboard notices extension.
+
+== 4.1 ==
+
+* Fixed incorrect work of SSO via stylesheets
+* Fixed home domain mapping in case when primary domain is selected
+* Fixed allowed redirect hosts filtering issue
+* Fixed theme preview compatibility issue
+* Implemented ability to register eNom accounts via admin dashboard
+* Improved eNom domain purchase form
+* Improved stylesheets SSO
+* Added instruction how to enabled multiple domains mapping
+
+== 4.0.4 ==
+
+* Fixed SSL verification issue for health check validation
+* Fixed WPEngine compatibility issue
+
+== 4.0.3 ==
+
+* Fixed dedicated IP determination
+* Fixed ProSites compatibility issue
+* Implemented front end redirect to primary domain
+* Improved MultiDB compatibility by registering domain mapping tables as global
+
+
+162552-1396019580
