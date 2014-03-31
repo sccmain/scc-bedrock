@@ -75,12 +75,8 @@
     },
     {
       "name": "sccmain/scc-greenearth-child",
-      "type" : "wordpress-theme",
-      "version": "master",
-      "dist": {
-        "url": "git@github.com:sccmain/scc-greenearth-child.git",
-        "type": "git"
-      },      
+      "type" : "git",
+      "url"  : "git@github.com:sccmain/scc-greenearth-child.git",
       "require" : {
         "sccmain/th-scc-utility": "0.1"
       }
