@@ -81,10 +81,6 @@
       "require": {
         "th-framewrok": "0.1"
       }
-    },
-    {
-      "type": "git",
-      "url":  "git@github.com:sccmain/scc-greenearth-child.git"
     }
   ],
   "require": {
