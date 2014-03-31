@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "53fa36fa0133467edda5dc40c3a6cb03",
+    "hash": "c10941ecc864d02626708093a3db6b91",
     "packages": [
         {
             "name": "composer/installers",
@@ -259,63 +259,27 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:sccmain/scc-greenearth-child.git",
-                "reference": "1cced7061414a6d3554c33c6ccdd2c451eb8b8a0"
-            },
-            "dist": {
-                "type": "git",
-                "url": "git@github.com:sccmain/scc-greenearth-child.git",
-                "reference": null,
-                "shasum": null
+                "reference": "master"
             },
             "require": {
-                "composer/installers": "v1.0.6",
-                "php": ">=5.3.2"
+                "sccmain/th-scc-utility": "dev-master"
             },
             "type": "wordpress-theme",
-            "authors": [
-                {
-                    "name": "August Infotech",
-                    "email": "jignasa@augustinfotech.com"
-                }
-            ],
-            "description": "Greenearth child theme for SCC",
-            "homepage": "https://github.com/sccmain/scc-greenearth-child",
-            "support": {
-                "source": "https://github.com/sccmain/scc-greenearth-child/tree/master",
-                "issues": "https://github.com/sccmain/scc-greenearth-child/issues"
-            },
             "time": "2014-03-31 10:40:12"
         },
         {
             "name": "sccmain/th-scc-utility",
-            "version": "0.1.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "git@github.com:sccmain/th-scc-utility.git",
-                "reference": "cef0aa83faa0182eb11b3ed6dfa5f6fdda6a76e8"
+                "reference": "master"
             },
             "require": {
-                "composer/installers": "v1.0.6",
-                "php": ">=5.3.2"
+                "thuijssoon/th-framework": "dev-master"
             },
             "type": "wordpress-plugin",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Thijs Huijssoon",
-                    "email": "thuijssoon@googlemail.com"
-                }
-            ],
-            "description": "Utility plugin for SCC main site",
-            "homepage": "https://github.com/sccmain/th-scc-utility",
-            "keywords": [
-                "plugin",
-                "scc",
-                "wordpress"
-            ],
-            "time": "2014-03-18 15:06:51"
+            "time": "2014-03-18 15:40:53"
         },
         {
             "name": "symfony/finder",
@@ -367,15 +331,15 @@
             "time": "2014-01-07 13:28:54"
         },
         {
-            "name": "th-framewrok",
-            "version": "0.1",
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/thuijssoon/th-framework/archive/master.zip",
-                "reference": null,
-                "shasum": null
+            "name": "thuijssoon/th-framework",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:thuijssoon/th-framework.git",
+                "reference": "master"
             },
-            "type": "wordpress-plugin"
+            "type": "wordpress-plugin",
+            "time": "2014-03-31 16:45:48"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -610,6 +574,8 @@
     ],
     "minimum-stability": "stable",
     "stability-flags": {
+        "thuijssoon/th-framework": 20,
+        "sccmain/th-scc-utility": 20,
         "sccmain/scc-greenearth-child": 20
     },
     "platform": {

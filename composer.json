@@ -1,33 +1,6 @@
 {
-  "name": "roots/bedrock",
+  "name": "sccmain/scc-bedrock",
   "type": "project",
-  "license": "MIT",
-  "description": "A modern WordPress stack",
-  "homepage": "http://roots.io/wordpress-stack/",
-  "authors": [
-    {
-      "name": "Scott Walkinshaw",
-      "email": "scott.walkinshaw@gmail.com",
-      "homepage": "https://github.com/swalkinshaw"
-    },
-    {
-      "name": "Ben Word",
-      "email": "ben@benword.com",
-      "homepage": "https://github.com/retlehs"
-    }
-  ],
-  "keywords": [
-    "wordpress",
-    "stack",
-    "capistrano",
-    "composer",
-    "vagrant",
-    "wp"
-  ],
-  "support": {
-    "issues": "https://github.com/roots/bedrock/issues",
-    "forum": "http://discourse.roots.io/category/bedrock"
-  },
   "config": {
     "preferred-install": "dist",
     "generate-salts": true
@@ -65,33 +38,54 @@
     {
       "type": "package",
       "package": {
-        "name": "th-framewrok",
-        "version": "0.1",
+        "name": "sccmain/th-framework",
+        "version": "dev-master",
         "type": "wordpress-plugin",
-        "dist": {
-          "type": "zip",
-          "url": "https://github.com/thuijssoon/th-framework/archive/master.zip"
+        "source": {
+          "url": "git@github.com:thuijssoon/th-framework.git",
+          "type": "git",
+          "reference": "master"
         }
       }
     },
     {
-      "name": "sccmain/th-scc-utility",
-      "type": "vcs",
-      "url": "git@github.com:sccmain/th-scc-utility.git",
-      "require": {
-        "th-framewrok": "0.1"
+      "type": "package",
+      "package": {
+        "name": "sccmain/th-scc-utility",
+        "version": "dev-master",
+        "type": "wordpress-plugin",
+        "source": {
+          "url": "git@github.com:sccmain/th-scc-utility.git",
+          "type": "git",
+          "reference": "master"
+        },
+        "require": {
+          "thuijssoon/th-framework": "dev-master"
+        }
       }
     },
     {
-      "type": "vcs",
-      "url":  "git@github.com:sccmain/scc-greenearth-child.git"
-    }
+      "type": "package",
+      "package": {
+        "name": "sccmain/scc-greenearth-child",
+        "version": "dev-master",
+        "type": "wordpress-theme",
+        "source": {
+          "url": "git@github.com:sccmain/scc-greenearth-child.git",
+          "type": "git",
+          "reference": "master"
+        },
+        "require": {
+          "sccmain/th-scc-utility": "dev-master"
+        }
+      }
+    }    
   ],
   "require": {
     "php": ">=5.3.2",
     "wordpress": "3.8.1",
-    "th-framewrok": "0.1",
-    "sccmain/th-scc-utility": "0.1",
+    "thuijssoon/th-framework": "dev-master",
+    "sccmain/th-scc-utility": "dev-master",
     "sccmain/scc-greenearth-child": "dev-master",
     "fancyguy/webroot-installer": "1.1.0",
     "composer/installers": "v1.0.6",
@@ -99,7 +93,7 @@
     "vlucas/phpdotenv": "~1.0.5",
     "wpackagist-plugin/contact-form-7": "3.7.2",
     "wpackagist-plugin/share-this": "7.0.9",
-    "wpackagist-plugin/wp-video-lightbox": "1.6.5"
+    "wpackagist-plugin/wp-video-lightbox": "1.6.5"    
   },
   "extra": {
     "installer-paths": {
