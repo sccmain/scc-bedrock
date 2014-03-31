@@ -75,8 +75,12 @@
     },
     {
       "name": "sccmain/scc-greenearth-child",
-      "type" : "git",
-      "url"  : "git@github.com:sccmain/scc-greenearth-child.git",
+      "type" : "wordpress-theme",
+      "version": "master",
+      "dist": {
+        "url": "git@github.com:sccmain/scc-greenearth-child.git",
+        "type": "git"
+      },      
       "require" : {
         "sccmain/th-scc-utility": "0.1"
       }
@@ -87,7 +91,7 @@
     "wordpress": "3.8.1",
     "th-framewrok": "0.1",
     "sccmain/th-scc-utility": "0.1",
-    "sccmain/scc-greenearth-child": "0.1.*",
+    "sccmain/scc-greenearth-child": "master",
     "fancyguy/webroot-installer": "1.1.0",
     "composer/installers": "v1.0.6",
     "wp-cli/wp-cli": "v0.13.0",
