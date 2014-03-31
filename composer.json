@@ -76,7 +76,7 @@
     },
     {
       "name": "sccmain/th-scc-utility",
-      "type": "git",
+      "type": "vcs",
       "url": "git@github.com:sccmain/th-scc-utility.git",
       "require": {
         "th-framewrok": "0.1"
