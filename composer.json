@@ -17,7 +17,12 @@
     }
   ],
   "keywords": [
-    "wordpress", "stack", "capistrano", "composer", "vagrant", "wp"
+    "wordpress",
+    "stack",
+    "capistrano",
+    "composer",
+    "vagrant",
+    "wp"
   ],
   "support": {
     "issues": "https://github.com/roots/bedrock/issues",
@@ -28,10 +33,14 @@
     "generate-salts": true
   },
   "autoload": {
-    "psr-0": {"Bedrock\\Installer": "scripts"}
+    "psr-0": {
+      "Bedrock\\Installer": "scripts"
+    }
   },
   "scripts": {
-    "post-root-package-install": ["Bedrock\\Installer::addSalts"]
+    "post-root-package-install": [
+      "Bedrock\\Installer::addSalts"
+    ]
   },
   "repositories": [
     {
@@ -48,7 +57,7 @@
           "type": "zip",
           "url": "https://github.com/WordPress/WordPress/archive/3.8.1.zip"
         },
-        "require" : {
+        "require": {
           "fancyguy/webroot-installer": "1.1.0"
         }
       }
@@ -67,19 +76,15 @@
     },
     {
       "name": "sccmain/th-scc-utility",
-      "type" : "git",
-      "url"  : "git@github.com:sccmain/th-scc-utility.git",
-      "require" : {
+      "type": "git",
+      "url": "git@github.com:sccmain/th-scc-utility.git",
+      "require": {
         "th-framewrok": "0.1"
       }
     },
     {
-      "name": "sccmain/scc-greenearth-child",
-      "type" : "git",
-      "url"  : "git@github.com:sccmain/scc-greenearth-child.git",
-      "require" : {
-        "sccmain/th-scc-utility": "0.1"
-      }
+      "type": "git",
+      "url":  "git@github.com:sccmain/scc-greenearth-child.git"
     }
   ],
   "require": {
@@ -87,20 +92,26 @@
     "wordpress": "3.8.1",
     "th-framewrok": "0.1",
     "sccmain/th-scc-utility": "0.1",
-    "sccmain/scc-greenearth-child": "master",
+    "sccmain/scc-greenearth-child": "dev-master",
     "fancyguy/webroot-installer": "1.1.0",
     "composer/installers": "v1.0.6",
     "wp-cli/wp-cli": "v0.13.0",
     "vlucas/phpdotenv": "~1.0.5",
-    "wpackagist-plugin/contact-form-7":"3.7.2",
-    "wpackagist-plugin/share-this":"7.0.9",
-    "wpackagist-plugin/wp-video-lightbox":"1.6.5"
+    "wpackagist-plugin/contact-form-7": "3.7.2",
+    "wpackagist-plugin/share-this": "7.0.9",
+    "wpackagist-plugin/wp-video-lightbox": "1.6.5"
   },
   "extra": {
     "installer-paths": {
-      "app/plugins/{$name}/": ["type:wordpress-plugin"],
-      "app/mu-plugins/{$name}/": ["type:wordpress-muplugin"],
-      "app/themes/{$name}/": ["type:wordpress-theme"]
+      "app/plugins/{$name}/": [
+        "type:wordpress-plugin"
+      ],
+      "app/mu-plugins/{$name}/": [
+        "type:wordpress-muplugin"
+      ],
+      "app/themes/{$name}/": [
+        "type:wordpress-theme"
+      ]
     },
     "webroot-dir": "wp",
     "webroot-package": "wordpress"

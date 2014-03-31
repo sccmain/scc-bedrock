@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "ba03f97227c6b990114744144df68c86",
+    "hash": "68d6c2d775ab46c97a36f1bc2eefbd1a",
     "packages": [
         {
             "name": "composer/installers",
@@ -255,20 +255,23 @@
         },
         {
             "name": "sccmain/scc-greenearth-child",
-            "version": "0.1.1",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "git@github.com:sccmain/scc-greenearth-child.git",
-                "reference": "2b0ca890596faa393a8d910c6d0b2262dce999a2"
+                "reference": "1cced7061414a6d3554c33c6ccdd2c451eb8b8a0"
+            },
+            "dist": {
+                "type": "git",
+                "url": "git@github.com:sccmain/scc-greenearth-child.git",
+                "reference": null,
+                "shasum": null
             },
             "require": {
                 "composer/installers": "v1.0.6",
                 "php": ">=5.3.2"
             },
             "type": "wordpress-theme",
-            "license": [
-                "MIT"
-            ],
             "authors": [
                 {
                     "name": "August Infotech",
@@ -277,12 +280,11 @@
             ],
             "description": "Greenearth child theme for SCC",
             "homepage": "https://github.com/sccmain/scc-greenearth-child",
-            "keywords": [
-                "scc",
-                "theme",
-                "wordpress"
-            ],
-            "time": "2014-03-28 16:02:36"
+            "support": {
+                "source": "https://github.com/sccmain/scc-greenearth-child/tree/master",
+                "issues": "https://github.com/sccmain/scc-greenearth-child/issues"
+            },
+            "time": "2014-03-31 10:40:12"
         },
         {
             "name": "sccmain/th-scc-utility",
@@ -607,9 +609,9 @@
 
     ],
     "minimum-stability": "stable",
-    "stability-flags": [
-
-    ],
+    "stability-flags": {
+        "sccmain/scc-greenearth-child": 20
+    },
     "platform": {
         "php": ">=5.3.2"
     },
