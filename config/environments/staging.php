@@ -30,4 +30,9 @@ define( 'FTP_CONTENT_DIR', $root_dir . CONTENT_DIR);
 define( 'FTP_PLUGIN_DIR ', $root_dir . CONTENT_DIR . '/plugins/' );
 
 /* Multisite */
-define( 'WP_ALLOW_MULTISITE', true );
+define('MULTISITE', true);
+define('SUBDOMAIN_INSTALL', true);
+define('DOMAIN_CURRENT_SITE', 'christiansextreatment.com');
+define('PATH_CURRENT_SITE', '/');
+define('SITE_ID_CURRENT_SITE', 1);
+define('BLOG_ID_CURRENT_SITE', 1);
